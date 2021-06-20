@@ -7,3 +7,4 @@ dev2 add something
 ### temp work have not finished..
 
 conflict by p1
+conflict new by p2 dev
